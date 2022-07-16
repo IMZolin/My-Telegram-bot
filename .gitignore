@@ -2,3 +2,4 @@ config.py
 /documents
 /NM
 /.idea
+/__pycache__
